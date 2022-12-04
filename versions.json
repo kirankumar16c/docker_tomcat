@@ -1,0 +1,75 @@
+{
+  "10.0": {
+    "sha512": "33c51be9410eaa0ce1393f8ce80a42a9639b68c7b7af1e9e642045614c170a12f8841ce4142933d1f4d18ba7efc85c630f91c312e959dcdc64aae396c46bdd97",
+    "variants": [
+      "jdk17/temurin-jammy",
+      "jre17/temurin-jammy",
+      "jdk17/temurin-focal",
+      "jre17/temurin-focal",
+      "jdk17/corretto-al2",
+      "jdk11/temurin-jammy",
+      "jre11/temurin-jammy",
+      "jdk11/temurin-focal",
+      "jre11/temurin-focal",
+      "jdk11/corretto-al2",
+      "jdk8/temurin-jammy",
+      "jre8/temurin-jammy",
+      "jdk8/temurin-focal",
+      "jre8/temurin-focal",
+      "jdk8/corretto-al2"
+    ],
+    "version": "10.0.27"
+  },
+  "10.1": {
+    "sha512": "50e933934cbf2915603264dfd245db0137491555d71d4fe8a535a7a8b6bc36bb4984e8bb2f38c968fbfc84a87aeeaa773ce1c6ee5f2eaa87780d1869251da51e",
+    "variants": [
+      "jdk17/temurin-jammy",
+      "jre17/temurin-jammy",
+      "jdk11/temurin-jammy",
+      "jre11/temurin-jammy"
+    ],
+    "version": "10.1.2"
+  },
+  "8.5": {
+    "sha512": "e595e906d62ff16545318108478aa101103181569dc6f4549dd0cdf8744147f7e9ba8a88cab6d33237b22981acb1085de86e7b2a4f1659efdbd4804df1303561",
+    "variants": [
+      "jdk17/temurin-jammy",
+      "jre17/temurin-jammy",
+      "jdk17/temurin-focal",
+      "jre17/temurin-focal",
+      "jdk17/corretto-al2",
+      "jdk11/temurin-jammy",
+      "jre11/temurin-jammy",
+      "jdk11/temurin-focal",
+      "jre11/temurin-focal",
+      "jdk11/corretto-al2",
+      "jdk8/temurin-jammy",
+      "jre8/temurin-jammy",
+      "jdk8/temurin-focal",
+      "jre8/temurin-focal",
+      "jdk8/corretto-al2"
+    ],
+    "version": "8.5.84"
+  },
+  "9.0": {
+    "sha512": "8c883c54ce9ce43eba37756a6404cdf3477879883a3e6d146dc8a7aa5e0425f487466afe6b6da4a895927cb7cb59177b9379cec18000f2de12785be57408c779",
+    "variants": [
+      "jdk17/temurin-jammy",
+      "jre17/temurin-jammy",
+      "jdk17/temurin-focal",
+      "jre17/temurin-focal",
+      "jdk17/corretto-al2",
+      "jdk11/temurin-jammy",
+      "jre11/temurin-jammy",
+      "jdk11/temurin-focal",
+      "jre11/temurin-focal",
+      "jdk11/corretto-al2",
+      "jdk8/temurin-jammy",
+      "jre8/temurin-jammy",
+      "jdk8/temurin-focal",
+      "jre8/temurin-focal",
+      "jdk8/corretto-al2"
+    ],
+    "version": "9.0.69"
+  }
+}
